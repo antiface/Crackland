@@ -15,9 +15,9 @@ place(stelsewhere).
 place(montreal).
 place(stpetersburg).
 place(assembly).
-place(house)
-place(houseof)
-place(room)
+place(house).
+place(houseof).
+place(room).
 template(city).
 template(cityof).
 template(houseof).
